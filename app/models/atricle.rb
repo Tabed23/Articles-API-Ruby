@@ -1,0 +1,2 @@
+class Atricle < ApplicationRecord
+end
